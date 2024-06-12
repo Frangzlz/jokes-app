@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(27, 27, 27);
+  color: white;
+  height: 90vh;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  height: 100%;
+  display: grid;
+  place-content: center;
+}
